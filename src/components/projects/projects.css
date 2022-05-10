@@ -1,0 +1,166 @@
+.pool-bg {
+   background: url("../../../public/bg-boxstar.png"),#0A0615;
+   ;
+    min-width: 320px;
+    max-width: 1980px;
+    margin: 0 auto;
+}
+.poolss{
+    text-align: center;
+    font-size: 50px !important;
+}
+.title1{
+    padding: 40px 20px 40px 20px;
+    color: white;
+}
+.ttile-line{
+    height: 40px;
+    width: 10px;
+    background: #351be3;
+    border-radius: 12px;
+    margin-right: 20px;
+    float: left;
+}
+.title1 h3{
+    font-size: 2em;
+    font-weight: 700;
+}
+.mid_pool {
+    background:  #16182D;
+    ;
+    border-radius: 20px;
+    color: #1c263b;
+    border: 6px solid  #CB3694;
+}
+.img_fluid {
+  
+    height: 300px;
+    padding: 20px;
+}
+.pool_info {
+    padding: 20px 20px 20px 10px;
+    color: white;
+}
+.pool_info h3 {
+    font-weight: 700;
+    font-size: 2.2em;
+    margin-bottom: 0px;
+}
+.pool_info p {
+    font-weight: 200;
+    font-size: 1.1em;
+}
+.time_bg {
+    background: #e2e6e9;
+    border-radius: 12px;
+    padding: 10px 10px;
+}
+.time_bg img {
+    max-width: 20px;
+    margin-top: -2px;
+    margin-right: 10px;
+}
+.pool_footer img {
+    float: left;
+    max-width: 30px;
+    margin-right: 10px;
+}
+.pool_footer {
+    padding-top: 20px;
+}
+.pool_footer h3 {
+    font-size: 1.2em;
+}
+.pool_down {
+    background: #fff;
+    border-radius: 12px;
+    padding: 6px 20px;
+    margin-top: 10px;
+}
+.dpbg {
+    background: #e2e7e9;
+    border-radius: 12px;
+    padding: 7px 0px;
+}
+.dpbg b {
+    background: #52ca69;
+    border-radius: 12px;
+    padding: 10px 10px;
+    color: #fff;
+}
+
+.pool_btn {
+    background: #3814e8;
+    border-radius: 6px;
+    border: none;
+    padding: 5px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 2px;
+    font-weight: 600;
+    float: right;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+.clr{
+    clear: both;
+}
+@media (min-width: 320px) and (max-width: 760px){
+.polava {
+    text-align: center;
+    margin-top: 20px;
+}
+}
+@media (min-width: 320px) and (max-width: 760px){
+.pool_btn {
+    background: #3814e8;
+    border-radius: 12px;
+    border: none;
+    padding: 5px 30px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 6px;
+    font-weight: 600;
+    float: right;
+    width: 100%;
+}
+}
+.para{
+font-size: 11px !important;
+
+line-height: 18px;
+letter-spacing: 0em;
+
+
+}
+.btn4{
+   
+    padding: 6px 10px 6px 10px;
+    border-radius: 50px;
+    background-color: #CB3694;
+    color: white;
+    border: none;
+    font-size: 10px;
+    margin-right: 10px;
+}
+.btn5{
+    background: #5133D5;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    width: 220px;
+    border-radius: 50px;
+    font-size: 18px;
+    border: none;
+    margin-top: 20px;
+    box-shadow: 0px 7px 22px 2px #5133D599;
+
+
+
+}
