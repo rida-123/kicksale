@@ -73,3 +73,9 @@ border-bottom: 1px solid white;
       padding-left: 70px;
       padding-right: 70px;
   }
+  @media only screen and (max-width: 950px){
+    .accordion{
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+  }

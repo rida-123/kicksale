@@ -7,7 +7,7 @@ const Table=()=>{
          <br></br>
          <br></br>
          <center>
-         <table className='tables' cellPadding={20}>
+         <table className='tables' >
              <tr>
                  <th>ACCESS</th>
                  <th>TIER</th>

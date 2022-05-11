@@ -23,5 +23,16 @@ width: 70%;
 table ,th ,td{
     border: 1px solid #5B435B;
   width: 25%;
+  padding: 20px;
 
+}
+@media only screen and (max-width: 700px){
+  
+    table ,th ,td{
+        border: 1px solid #5B435B;
+     
+      padding: 13px;
+      font-size: 12px;
+    
+    }
 }
