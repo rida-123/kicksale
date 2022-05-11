@@ -1,0 +1,16 @@
+.footerNav{
+    background-color: #090713;
+}
+.immg{
+    width: 200px;
+    height: 70px;
+}
+.navFooter span a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+.icons a img{
+    padding: 10px;
+}

@@ -1,0 +1,75 @@
+.faq{
+    margin-top: -16px;
+    background: url("../../../public/twisted.png"),#07040F;
+   background-attachment: fixed;
+   
+    background-size: cover;
+}
+.faqHead{
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+#main {
+    margin: 50px 0;
+  }
+  
+  #main #faq .card {
+    margin-bottom: 30px;
+    border: 0;
+  }
+  
+  #main #faq .card .card-header {
+    border: 0;
+border-bottom: 1px solid white;
+    border-radius: 2px;
+    padding: 0;
+    
+  }
+  .card-header:focus{
+     
+      outline: none;
+  }
+  
+  
+  
+  #main #faq .card .card-header .btn-header-link:after {
+    content: "\f107";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    float: right;
+    
+  }
+
+  #main #faq .card .card-header .btn-header-link.collapsed {
+    background: transparent;
+    color: #fff;
+  }
+  #main #faq .card .card-header .btn-header-link {
+    color: #fff;
+    display: block;
+    text-align: left;
+  
+    background-image: linear-gradient(to right, #C83695, #6934C9);
+    padding: 20px;
+  }
+  
+  #main #faq .card .collapsing {
+
+    line-height: 30px;
+  }
+  
+  #main #faq .card .collapse {
+    border: 0;
+  }
+  
+  #main #faq .card .collapse.show {
+    background: #080C48;
+    line-height: 30px;
+    color: white;
+    border-radius: 20px;
+  }
+  .accordion{
+      padding-left: 70px;
+      padding-right: 70px;
+  }

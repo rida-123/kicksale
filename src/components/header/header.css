@@ -12,6 +12,7 @@ font-family: 'Syne', sans-serif;
     background-repeat: no-repeat;
     background-size:cover;
     padding-top: 20px;
+    background-attachment: fixed;
 }
 .navbar{
     background:  rgba(0, 0, 0, 0.7);

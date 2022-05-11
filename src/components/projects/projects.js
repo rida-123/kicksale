@@ -94,7 +94,7 @@ const Projects=()=>{
                                             </div>
                                             <div className='col-12 col-sm-7 col-lg-6'>
                                                 <div className='pool_info'>
-                                                    <h4 style={{fontSize:"35px"}}>KickMe NOS</h4>
+                                                    <h4 style={{fontSize:"33px"}}>KickMe NOS</h4>
                                                     <p className='para'> Metaland is a virtual world where players can build, own, and monetize their gaming.</p>
                                                    <button className='btn4'>Registration Opened</button>
                                                    
