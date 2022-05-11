@@ -79,3 +79,12 @@ border-bottom: 1px solid white;
       padding-right: 20px;
   }
   }
+  @media only screen and (max-width: 600px){
+    .faq{
+      margin-top: -16px;
+      background: url("../../../public/twisted.png"),#07040F;
+     background-attachment: fixed;
+     background-position: center;
+      background-size: cover;
+  }
+  }
