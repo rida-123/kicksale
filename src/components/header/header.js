@@ -37,8 +37,8 @@ const Header=()=>{
         
    
       </ul>
-      <form className="d-flex">
-     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+    
+     <ul className="navbar-nav ">
      <li className="nav-item dropdown">
           <a
             className="nav-link "
@@ -48,6 +48,7 @@ const Header=()=>{
             data-toggle="dropdown"
             aria-expanded="false"
           >
+            
             <span className='accounts'>ACCOUNTS</span>
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -78,7 +79,7 @@ const Header=()=>{
         <button className="btn1" >
       WALLET
         </button>
-      </form>
+  
     </div>
   </div>
 </nav>
