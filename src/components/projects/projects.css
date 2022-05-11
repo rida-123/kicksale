@@ -174,4 +174,8 @@ letter-spacing: 0em;
     .pool_info {
   text-align: center;
     }
+    .poolss{
+        text-align: center;
+        font-size: 30px !important;
+    }
 }

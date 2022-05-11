@@ -31,6 +31,7 @@
     }
     .navFooter span a{
         padding: 8px;
+        font-size: 12px;
     }
     .icons{
         text-align: center;
@@ -43,6 +44,7 @@
     }
     .navFooter1 span a{
         padding: 8px;
+        font-size: 12px;
     }
    
 }

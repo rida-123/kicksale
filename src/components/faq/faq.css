@@ -33,13 +33,13 @@ border-bottom: 1px solid white;
   
   
   
-  #main #faq .card .card-header .btn-header-link:after {
+  /* #main #faq .card .card-header .btn-header-link:after {
     content: "\f107";
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
     float: right;
     
-  }
+  } */
 
   #main #faq .card .card-header .btn-header-link.collapsed {
     background: transparent;

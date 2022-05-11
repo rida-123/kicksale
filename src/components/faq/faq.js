@@ -18,9 +18,9 @@ const Faq=()=>{
                     <div className="card" style={{backgroundColor:"transparent",color:"white"}} >
                         <div className="card-header" id="faqhead1">
                             <a href="#" className="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq1"
-                            aria-expanded="true" aria-controls="faq1">Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
+                            aria-expanded="true" aria-controls="faq1">Lorem ipsum dolor sit amet consectetur adipisicing elit.<i class='fas fa-angle-down' style={{float:"right", fontWeight:"900"}}></i></a>
                         </div>
-
+                        
                         <div id="faq1" className="collapse" aria-labelledby="faqhead1" data-parent="#faq">
                             <div className="card-body" style={{backgroundColor:"#080C48",borderRadius:"20px"}}>
                                 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
@@ -33,7 +33,7 @@ const Faq=()=>{
                     <div className="card" style={{backgroundColor:"transparent",color:"white"}}>
                         <div className="card-header" id="faqhead2">
                             <a href="#" className="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                            aria-expanded="true" aria-controls="faq2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
+                            aria-expanded="true" aria-controls="faq2">Lorem ipsum dolor sit amet consectetur adipisicing elit.<i class='fas fa-angle-down' style={{float:"right", fontWeight:"900"}}></i></a>
                         </div>
 
                         <div id="faq2" className="collapse" aria-labelledby="faqhead2" data-parent="#faq">
@@ -50,7 +50,7 @@ const Faq=()=>{
                     <div className="card" style={{backgroundColor:"transparent",color:"white"}}>
                         <div className="card-header" id="faqhead3">
                             <a href="#" className="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                            aria-expanded="true" aria-controls="faq3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
+                            aria-expanded="true" aria-controls="faq3">Lorem ipsum dolor sit amet consectetur adipisicing elit.<i class='fas fa-angle-down' style={{float:"right", fontWeight:"900"}}></i></a>
                         </div>
 
                         <div id="faq3" className="collapse" aria-labelledby="faqhead3" data-parent="#faq">
@@ -63,7 +63,7 @@ const Faq=()=>{
                     <div className="card" style={{backgroundColor:"transparent",color:"white"}}>
                         <div className="card-header" id="faqhead4">
                             <a href="#" className="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                            aria-expanded="true" aria-controls="faq3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
+                            aria-expanded="true" aria-controls="faq3">Lorem ipsum dolor sit amet consectetur adipisicing elit.<i class='fas fa-angle-down' style={{float:"right", fontWeight:"900"}}></i></a>
                         </div>
 
                         <div id="faq4" className="collapse" aria-labelledby="faqhead4" data-parent="#faq">
@@ -77,7 +77,7 @@ const Faq=()=>{
                     <div className="card" style={{backgroundColor:"transparent",color:"white"}}>
                         <div className="card-header" id="faqhead5">
                             <a href="#" className="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                            aria-expanded="true" aria-controls="faq3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
+                            aria-expanded="true" aria-controls="faq3">Lorem ipsum dolor sit amet consectetur adipisicing elit.<i class='fas fa-angle-down' style={{float:"right", fontWeight:"900"}}></i></a>
                         </div>
 
                         <div id="faq5" className="collapse" aria-labelledby="faqhead5" data-parent="#faq">
