@@ -25,3 +25,22 @@
     font-size: 14px;
     font-weight: 200px;
 }
+@media only screen and (max-width: 1100px){
+    .navFooter{
+        text-align: center;
+    }
+    .navFooter span a{
+        padding: 15px;
+    }
+    .icons{
+        text-align: center;
+    }
+    .para11{
+        text-align: center;
+    }
+    .navFooter1{
+        text-align: center;
+    }
+   
+}
+
