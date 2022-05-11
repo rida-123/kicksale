@@ -164,3 +164,14 @@ letter-spacing: 0em;
 
 
 }
+@media only screen and (max-width: 800px){
+    .img_fluid {
+
+        height:200px;
+     
+        padding: 20px;
+    }
+    .pool_info {
+  text-align: center;
+    }
+}

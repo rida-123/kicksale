@@ -6,7 +6,7 @@ const About=()=>{
            
            
            <div className='container'>
-               <div className='row' style={{paddingTop:"250px",paddingBottom:"200px"}}>
+               <div className='row aboutss' >
                    <div className='col-sm-2 col-lg-2 col-md-2'>
                        <img src="photo1.png" className='img3'></img>
                    </div>

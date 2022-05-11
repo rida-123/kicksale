@@ -11,7 +11,7 @@ const Projects=()=>{
                                 <h3 className='poolss'>KICKSALE PROJECTS</h3>
                             </div>
                             <div className='row'>
-                                <div className='col-12 col-sm-12 col-lg-6'>
+                                <div className='col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
@@ -45,7 +45,7 @@ const Projects=()=>{
                           
                                 </div>
 </div>
-<div className='col-12 col-sm-12 col-lg-6'>
+<div className='col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
@@ -83,7 +83,7 @@ const Projects=()=>{
                             <br></br>
                             <br></br>
                             <div className='row'>
-                                <div className='col-12 col-sm-12 col-lg-6'>
+                                <div className='col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
@@ -117,7 +117,7 @@ const Projects=()=>{
                           
                                 </div>
 </div>
-<div className='col-12 col-sm-12 col-lg-6'>
+<div className='col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
