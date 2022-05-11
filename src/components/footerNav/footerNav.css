@@ -30,7 +30,7 @@
         text-align: center;
     }
     .navFooter span a{
-        padding: 15px;
+        padding: 8px;
     }
     .icons{
         text-align: center;
@@ -40,6 +40,9 @@
     }
     .navFooter1{
         text-align: center;
+    }
+    .navFooter1 span a{
+        padding: 8px;
     }
    
 }
