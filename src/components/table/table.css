@@ -10,10 +10,11 @@
 }
 .tables{
     color: white;
-    border: 1px solid #5B435B;
+    
 width: 70%;
     background-image: linear-gradient(to right, #2f1031 , #1E1039);
     box-shadow: 0px 7px 22px 2px #5B435B;
+
    
     
 }

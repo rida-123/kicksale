@@ -1,4 +1,5 @@
 import './header.css'
+import { Link } from 'react-router-dom';
 const Header=()=>{
     return <div className='header'>
         <nav className="navbar navbar-expand-lg navbar-light ">
@@ -68,9 +69,9 @@ const Header=()=>{
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <Link className="dropdown-item" to="/myprojects">
          MY PORTFOLIO
-              </a>
+              </Link>
             </li>
           
           </ul>

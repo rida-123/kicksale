@@ -1,0 +1,46 @@
+.headingPro{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.livepro{
+    color: white;
+}
+.card{
+    border-radius: 35px;
+    border: 6px solid #C83695 ;
+}
+.card-body{
+    background-color: #16182d;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+}
+.avaxtxt{
+    color: white;
+}
+.btn8{
+  
+   
+        padding: 7px 20px 7px 20px;
+        border-radius: 50px;
+        background-color: #5133D5;
+        color: white;
+        border: none;
+        font-size: 10px;
+        
+ }  
+ .proHead{
+     color: white;
+     padding-top: 20px;
+ }
+ .propara{
+    color: white;
+    padding-top: 10px;
+    font-size: 9px;
+ }
+ .icons1 a img{
+width: 50px;
+height: 50px;
+padding: 10px;
+}
+
