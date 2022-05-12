@@ -15,8 +15,12 @@ const Newsletter=()=>{
 </p>
 <div class="input-group mb-3">
   <input type="text" className="form-control" placeholder="Your Email" aria-label="Recipient's username" aria-describedby="basic-addon2"/>
+ 
   <div class="input-group-append">
-  <button class="btn" type="button">Subscribe</button>
+
+      <button class="btn" type="button">Subscribe</button>
+      
+  
   </div>
 </div>
                     </div>

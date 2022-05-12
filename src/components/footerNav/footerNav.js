@@ -6,7 +6,8 @@ const FooterNav=()=>{
             <div className='container-fluid'>
                 <div className='row'>
                     <div className='col-sm-12 col-lg-3 col-md-12'>
-<img src="kicksale-logo.png" className='immg'></img>
+                        <div className='center'><img src="kicksale-logo.png" className='immg'></img></div>
+
                     </div>
                     <div className='col-sm-12 col-lg-6 col-md-12' style={{marginTop:"30px"}}>
                         <div className='navFooter'>

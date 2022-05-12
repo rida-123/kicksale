@@ -23,41 +23,11 @@ padding-bottom: 90px;
 .newsLetterHeading{
     text-transform: uppercase;
 }
-/* .mycustom {
-    
-    position: relative;
-   
-    }
-    .mycustom input[type=text] {
-        border: 1px solid white !important;
-    width: 50%;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    padding-right: 123px;
-    background-color: #16182D;
-    color: white;
-    }
-    .mycustom .input-group-prepend {
-    position: absolute;
-left:244px;
-    top: 4px;
-    bottom: 4px;
-    z-index:9;
-    border-radius: 50px;
-    }
-    .input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu){
-        border-top-right-radius:50px;
-        border-bottom-right-radius: 50px;
-    }
-    .rounded-0{
-        border-radius: 50px !important;
-        background-color: #5133D5;
-    } */
+
    .form-control{
      width: 50% !important;
      border: 1px solid white !important;
-    width: 50%;
+ 
     height: 40px;
     border: none;
     background-color: #16182D;
@@ -104,5 +74,26 @@ left:244px;
             text-transform: uppercase;
             font-size: 28px;
         }
+        .form-control{
+            width: 80% !important;
+        }
         
+      
+      
+        
+}
+@media only screen and (max-width: 500px){
+    .newss{
+         
+        padding-left: 20px;
+    }
+    .input-group .btn {
+        position: absolute;
+         background-color: #5133D5;
+         color: white;
+         border-radius: 50px;
+
+     }
+        
+    
 }

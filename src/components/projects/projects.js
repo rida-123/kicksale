@@ -82,7 +82,7 @@ const Projects=()=>{
                             </div>
                             <br></br>
                             <br></br>
-                            <div className='row'>
+                            <div className='row' style={{marginTop:"-35px"}}>
                                 <div className='col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
