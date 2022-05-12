@@ -82,13 +82,13 @@ box-shadow: 0px 7px 22px 2px #5133D599;
 @media only screen and (max-width: 600px){
     .cardProject{
  
-        width: 20rem !important;
-        border-radius: 27px;
+        width: fit-content !important;
+        border-radius: 36px;
     }
     .card-body{
         background-color: #16182d;
-        border-bottom-left-radius: 22px;
-        border-bottom-right-radius: 22px;
+        border-bottom-left-radius: 32px;
+        border-bottom-right-radius: 32px;
     }
 
 }
