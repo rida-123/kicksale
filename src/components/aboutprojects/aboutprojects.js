@@ -8,7 +8,7 @@ const AboutProject=()=>{
          <br></br>
          <br></br>
          
-         <div className="card" style={{ width: "29rem",display:"inline-block"}}>
+         <div className="card cardProject" style={{ width: "29rem",display:"inline-block"}}>
   <img className="card-img-top" src="fullsize.png" alt="Card image cap" />
   <div className="card-body">
     <p className="card-text">
@@ -55,7 +55,7 @@ const AboutProject=()=>{
           </div>
         </div>
 
-        <div className="card" style={{ width: "29rem",display:"inline-block", marginLeft:"100px"}}>
+        <div className="card cardProject" style={{ width: "29rem",display:"inline-block", marginLeft:"100px"}}>
   <img className="card-img-top" src="fullsize.png" alt="Card image cap" />
   <div className="card-body">
     <p className="card-text">
