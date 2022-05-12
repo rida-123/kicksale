@@ -98,10 +98,7 @@ border: 2px solid #CB3694;
         padding-top: 100px;
         padding-bottom: 100px;
     }
-    .btn7{
-  margin-left: 0px;
-  margin-top: 5px;
-    }
+   
    
 }
 @media only screen and (max-width: 600px){
@@ -110,4 +107,15 @@ border: 2px solid #CB3694;
       background-position: center;
         background-size: cover;
     }
+   
+}
+@media only screen and (max-width: 770px){
+    .btn7{
+        margin-left: 0px;
+        margin-top: 5px;
+          }
+          .sbtn6{
+            display: block;
+        }
+        
 }

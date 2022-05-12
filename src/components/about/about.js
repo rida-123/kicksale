@@ -17,8 +17,10 @@ const About=()=>{
 </p>
 <br></br>
 <br></br>
-<center><button className='btn6'>Our Project</button>
-<button className='btn7'>MetaVerse NFT</button></center>
+<center>
+    <span className='sbtn6'><button className='btn6'>Our Project</button></span>
+    <span className='sbtn7'><button className='btn7'>MetaVerse NFT</button></span>
+</center>
 
                    </div>
                    <div className='col-sm-3 col-lg-3 col-md-12'>
