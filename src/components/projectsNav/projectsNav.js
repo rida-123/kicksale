@@ -58,9 +58,9 @@ const ProjectsNav=()=>{
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" href="#">
+                    <Link className="dropdown-item"to="/staking">
                  <span className='staking'> STAKING</span> 
-                    </a>
+                    </Link>
                   </li>
                   <li>
                     <a className="dropdown-item" href="#">
