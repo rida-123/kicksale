@@ -37,13 +37,13 @@ const AboutProject=()=>{
         <div className='gradient'>
           <div className='row'>
               <div className='col-5 col-sm-5 col-md-5 col-lg-5'>
-                  <p className='gradientp'>FCFS OPEN <br></br>TBA</p>
+                  <p className='gradientp' style={{marginLeft:"10px"}}>FCFS OPEN <br></br>TBA</p>
               </div>
-              <div className='col-1 col-sm-1 col-md-1 col-lg-1'>
-                  <img src="Line 18.png"></img>
+              <div className='col-2 col-sm-2 col-md-2 col-lg-2' style={{textAlign:"center"}}>
+                  <img src="Line 18.png" ></img>
               </div>
               <div className='col-5 col-sm-5 col-md-5 col-lg-5' >
-              <p className='gradientp' >FCFS CLOSE <br></br>TBA</p>
+              <p className='gradientp' style={{marginLeft:"-30px"}}>FCFS CLOSE <br></br>TBA</p>
               </div>
           </div>
           
@@ -55,7 +55,7 @@ const AboutProject=()=>{
           </div>
         </div>
 
-        <div className="card cardProject" style={{ width: "29rem",display:"inline-block", marginLeft:"100px"}}>
+        <div className="card cardProject" style={{ width: "29rem",display:"inline-block", marginLeft:"160px"}}>
   <img className="card-img-top" src="logo-mirl3.png" alt="Card image cap" style={{borderTopLeftRadius:"32px",borderTopRightRadius:"32px"}}/>
   <div className="card-body">
     <p className="card-text">
@@ -84,14 +84,14 @@ const AboutProject=()=>{
         <div className='gradient'>
           <div className='row'>
               <div className='col-5 col-sm-5 col-md-5 col-lg-5'>
-                  <p className='gradientp'>FCFS OPEN <br></br>TBA</p>
+                  <p className='gradientp'  style={{marginLeft:"10px"}}>FCFS OPEN <br></br>TBA</p>
               </div>
-              <div className='col-1 col-sm-1 col-md-1 col-lg-1'>
+              <div className='col-2 col-sm-2 col-md-2 col-lg-2'style={{textAlign:"center"}}>
                   <img src="Line 18.png"></img>
               </div>
             
               <div className='col-5 col-sm-5 col-md-5 col-lg-5' >
-              <p className='gradientp' >FCFS CLOSE <br></br>TBA</p>
+              <p className='gradientp' style={{marginLeft:"-30px"}} >FCFS CLOSE <br></br>TBA</p>
               </div>
           </div>
           
@@ -135,17 +135,17 @@ const AboutProject=()=>{
                                 <a href="#"><img src="vector3.png"></img></a>
                                 <a href="#"><img src="vector4.png"></img></a>
                              
-                                </div>
+        </div>
         <div className='gradient'>
           <div className='row'>
               <div className='col-5 col-sm-5 col-md-5 col-lg-5'>
-                  <p className='gradientp'>FCFS OPEN <br></br>TBA</p>
+                  <p className='gradientp' style={{marginLeft:"10px"}}>FCFS OPEN <br></br>TBA</p>
               </div>
-              <div className='col-1 col-sm-1 col-md-1 col-lg-1'>
+              <div className='col-2 col-sm-2 col-md-2 col-lg-2' style={{textAlign:"center"}}>
                   <img src="Line 18.png"></img>
               </div>
               <div className='col-5 col-sm-5 col-md-5 col-lg-5' >
-              <p className='gradientp' >FCFS CLOSE <br></br>TBA</p>
+              <p className='gradientp'style={{marginLeft:"-30px"}} >FCFS CLOSE <br></br>TBA</p>
               </div>
           </div>
           
@@ -157,7 +157,7 @@ const AboutProject=()=>{
           </div>
         </div>
 
-        <div className="card cardProject" style={{ width: "29rem",display:"inline-block", marginLeft:"100px"}}>
+        <div className="card cardProject" style={{ width: "29rem",display:"inline-block", marginLeft:"160px"}}>
   <img className="card-img-top" src="no-splashscreen.png" alt="Card image cap" style={{borderTopLeftRadius:"32px",borderTopRightRadius:"32px"}}/>
   <div className="card-body">
     <p className="card-text">
@@ -186,14 +186,14 @@ const AboutProject=()=>{
         <div className='gradient'>
           <div className='row'>
               <div className='col-5 col-sm-5 col-md-5 col-lg-5'>
-                  <p className='gradientp'>FCFS OPEN <br></br>TBA</p>
+                  <p className='gradientp' style={{marginLeft:"10px"}}>FCFS OPEN <br></br>TBA</p>
               </div>
-              <div className='col-1 col-sm-1 col-md-1 col-lg-1'>
+              <div className='col-2 col-sm-2 col-md-2 col-lg-2' style={{textAlign:"center"}}>
                   <img src="Line 18.png"></img>
               </div>
             
               <div className='col-5 col-sm-5 col-md-5 col-lg-5' >
-              <p className='gradientp' >FCFS CLOSE <br></br>TBA</p>
+              <p className='gradientp'  style={{marginLeft:"-30px"}}>FCFS CLOSE <br></br>TBA</p>
               </div>
           </div>
           
