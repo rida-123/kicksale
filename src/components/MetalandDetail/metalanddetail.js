@@ -24,12 +24,12 @@ const MetalandDetail=()=>{
                     </div>
                     <div className='col-12 col-sm-12 col-md-12 col-lg-4 detailCol1'>
                         <div className='row'>
-                            <div className='col-12 col-sm-12 col-md-12 col-lg-6'>
+                            <div className='col-6 col-sm-6 col-md-6 col-lg-6'>
                             <i class="fa fa-calendar" aria-hidden="true"></i>
                             <span className='spansss'>07 DAYS LEFT</span>
                             <img src="Line24.png" className="img66" style={{marginLeft:"25px", marginTop:"-20px"}}></img>
                             </div>
-                            <div className='col-12 col-sm-12 col-md-12 col-lg-6'>
+                            <div className='col-6 col-sm-6 col-md-6 col-lg-6'>
                                 <button className='button1'>PRIVATE SALE</button>
                                 <button  className='button2'>IDO</button>
                                 </div>
