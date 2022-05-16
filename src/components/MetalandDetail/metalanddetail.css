@@ -1,0 +1,148 @@
+.metaDetail{
+    background: url("../../../public/grass1.png") ,#0c0918;
+}
+.detailCol{
+    background-color: #1a112c;
+    border: 2px solid #C83695;
+    border-radius: 20px;
+    padding: 30px;
+}
+.h55{
+    color: white;
+    padding-top: 10px;
+}
+.metaland{
+    color: white;
+}
+.pa{
+    color: #a9a9af;
+    font-size: 12px;
+}
+.inputfield::placeholder{
+    color: #a9a9af;
+    font-size: 12px;
+   
+}
+.inputfield{
+    width: 45%;
+    background-color: transparent;
+   
+    border: 0.5px solid white;
+    padding: 7px 0px 10px 0px;
+    border-radius: 50px;
+    color: white;
+    margin: 8px 0;
+
+
+}
+.inputfield{
+    padding-left: 10px;
+}
+
+.btn16{
+    
+    color: white;
+    padding: 5px 10px 5px 11px;
+border-radius: 50px;
+font-weight: bold; 
+border: none; 
+background-color: transparent;
+font-size: 16px;
+margin-left: -70px;
+}
+.detailCol1{
+    background-color: #1a112c;
+    border: 2px solid #C83695;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 170px;
+    height: fit-content;
+    
+}
+.fa-calendar::before{
+    color:#C83695 ;
+}
+.spansss{
+    color: white;
+    font-size: 14px;
+    padding-left: 10px;
+
+}
+.button1{
+font-size: 10px;
+color: white;
+border: 1px solid #5133D5;
+border-radius: 50px;
+background: transparent;
+
+
+}
+.button2{
+    
+    font-size: 10px;
+color: #33d543;
+border: 1px solid #33d543;
+border-radius: 50px;
+background: transparent;
+margin-left: 10px;
+   
+}
+.usdt{
+    color: white;
+}
+.us{
+    font-size: 14px;
+    color: #a9a9af;
+    padding-left: 5px;
+}
+.btn13{
+    background: #5133D5;
+    color: white;
+   padding: 10px 10px 10px 10px;
+border-radius: 50px;
+font-weight: bold;
+margin-top: -4px;
+border: none;
+width: 100%;
+box-shadow: 0px 7px 22px 2px #5133D599;
+margin-top: 30px;
+
+
+}
+.button5{
+    background: #C83695;
+    color: white;
+   padding: 10px 10px 10px 10px;
+border-radius: 50px;
+font-weight: bold;
+margin-top: -4px;
+border: none;
+width: 100%;
+
+margin-top: 10px;
+}
+@media only screen and (max-width:1000px){
+    .detailCol1{
+    
+        margin-left: 10px;
+        margin-top: 20px;
+        margin-right: 10px;
+        width: 96%;
+
+    }
+    .detailCol{
+    
+        margin-left: 10px;
+      
+        margin-right: 10px;
+        width: 96%;
+
+    }
+
+}
+@media only screen and (max-width:1000px){
+
+    .img66{
+   display: none;
+    }
+}

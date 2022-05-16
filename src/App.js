@@ -3,6 +3,7 @@
 import Myprojects from './components/Myprojects/myprojects';
 import Home from './components/Home/home';
 import Staking from './components/staking/staking';
+import ProjectDetail from './components/projectDetail/projectDetail';
 import { BrowserRouter, Routes, Route, Router } from 'react-router-dom';
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
   <Route  exact path="/" element={<Home/>}></Route>
   <Route path="/myprojects" element={<Myprojects/>}></Route>
   <Route path="/staking" element={<Staking/>}></Route>
+  <Route path="/projectdetail" element={<ProjectDetail/>}></Route>
 
 </Routes>
 </BrowserRouter>

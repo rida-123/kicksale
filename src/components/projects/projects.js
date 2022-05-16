@@ -1,4 +1,5 @@
 import './projects.css'
+import { Link } from 'react-router-dom';
 const Projects=()=>{
     return(
 <>
@@ -68,7 +69,10 @@ const Projects=()=>{
                                                         
                                                                 <h6 style={{fontSize:"14px"}}>Whitelist end in:</h6>
                                                                 <h6 style={{fontSize:"18px"}}>01:04:32:15</h6>
+                                                                <Link to="/projectdetail">
                                                                 <button className='btn5'>More Details</button>
+                                                                </Link>
+                                                                
                                                             </div>
                                                         </div>
                                                     </div>
