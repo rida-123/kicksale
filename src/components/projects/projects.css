@@ -165,11 +165,10 @@ letter-spacing: 0em;
 
 }
 @media only screen and (max-width: 800px){
-    .img_fluid {
 
-        height:260px;
-     
+    .img_fluid{
        
+        height: 200px;
     }
     .btn5{
      width: 190px;

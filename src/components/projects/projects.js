@@ -125,7 +125,7 @@ const Projects=()=>{
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
-                                            <div className='col-6 col-sm-6 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6 imgCol'>
                                                 <div className='polava'>
                                                     <img src="1.png" className='img_fluid'></img>
                                                 </div>
