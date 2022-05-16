@@ -23,7 +23,7 @@ const About=()=>{
 </center>
 
                    </div>
-                   <div className='col-sm-3 col-lg-3 col-md-12'>
+                   <div className='col-sm-3 col-lg-3 col-md-12 hmmimg'>
                        <img src="photo2.png" className='img2'></img>
                    </div>
                </div>

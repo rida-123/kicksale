@@ -98,6 +98,9 @@ border: 2px solid #CB3694;
         padding-top: 100px;
         padding-bottom: 100px;
     }
+    .hmmimg{
+        text-align: right;
+    }
    
    
 }
@@ -113,6 +116,10 @@ border: 2px solid #CB3694;
     .btn7{
         margin-left: 0px;
         margin-top: 5px;
+        width: 80%;
+          }
+          .btn6{
+              width: 80%;
           }
           .sbtn6{
             display: block;

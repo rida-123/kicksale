@@ -151,7 +151,7 @@ const AboutProject=()=>{
           
           </div>
           <p className='aboutWhislist'>Whitelist end in:<br></br>01:04:32:15</p>
-     <center><button className='btn11'>PURCHASE</button></center> 
+     <center><button className='btn19'>PURCHASE</button></center> 
           
           </p>
           </div>
@@ -199,7 +199,7 @@ const AboutProject=()=>{
           
           </div>
           <p className='aboutWhislist'>Whitelist end in:<br></br>01:04:32:15</p>
-     <center><button className='btn11'>PURCHASE</button></center> 
+     <center><button className='btn19'>PURCHASE</button></center> 
           
           </p>
           </div>
