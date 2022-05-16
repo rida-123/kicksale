@@ -33,8 +33,8 @@ const Projects=()=>{
                                                         <div className='pool_footer'>
                                                             <div className='col'>
                                                         
-                                                                <h6 style={{fontSize:"14px"}}>Whitelist end in:</h6>
-                                                                <h6 style={{fontSize:"18px"}}>01:04:32:15</h6>
+                                                                <h6 className='h66'style={{fontSize:"14px"}}>Whitelist end in:</h6>
+                                                                <h6 className='h66'style={{fontSize:"18px"}}>01:04:32:15</h6>
                                                                 <button className='btn5'>More Details</button>
                                                             </div>
                                                         </div>

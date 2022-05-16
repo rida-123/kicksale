@@ -171,14 +171,21 @@ letter-spacing: 0em;
         height: 200px;
     }
     .btn5{
-     width: 190px;
+     width: 145px;
+     padding: 4px;
+     font-size: 12px;
     }
     .btn4{
         margin-top: 0 !important;
-        margin-right: 50px;
+        font-size: 7px;
+        margin-left: 1px;
     }
     .h33{
+        
         font-size: 20px !important;
+    }
+    .h66{
+        font-size: 12px !important;
     }
 }
 @media only screen and (max-width: 1000px){
