@@ -167,20 +167,20 @@ letter-spacing: 0em;
 @media only screen and (max-width: 800px){
     .img_fluid {
 
-        height:200px;
+        height:260px;
      
-        padding: 20px;
+       
     }
-    .pool_info {
-  text-align: center;
+    .btn5{
+     width: 190px;
     }
-    .poolss{
-        text-align: center;
-        font-size: 30px !important;
+    .btn4{
+        margin-top: 0 !important;
+        margin-right: 50px;
     }
-    .mid_pool {
-        margin-top: 10px !important;
-}
+    .h33{
+        font-size: 20px !important;
+    }
 }
 @media only screen and (max-width: 1000px){
     .mid_pool {

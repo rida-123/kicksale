@@ -12,18 +12,18 @@ const Projects=()=>{
                                 <h3 className='poolss'>KICKSALE PROJECTS</h3>
                             </div>
                             <div className='row'>
-                                <div className='col-md-12 col-sm-12 col-lg-6'>
+                                <div className='col-12 col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
-                                            <div className='col-12 col-sm-5 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='polava'>
                                                     <img src="logo-mirl.png" className='img_fluid'></img>
                                                 </div>
                                             </div>
-                                            <div className='col-12 col-sm-7 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='pool_info'>
-                                                    <h3>Kickwe Mirl</h3>
+                                                    <h3 className='h33'>Kickwe Mirl</h3>
                                                     <p className='para'> the journey of kickwe is starting.</p>
                                                    <button className='btn4' style={{marginTop:"37px"}}>Registration Opened</button>
                                                    
@@ -46,18 +46,18 @@ const Projects=()=>{
                           
                                 </div>
 </div>
-<div className='col-md-12 col-sm-12 col-lg-6'>
+<div className='col-12 col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
-                                            <div className='col-12 col-sm-5 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='polava'>
                                                     <img src="fullsize30.png" className='img_fluid'></img>
                                                 </div>
                                             </div>
-                                            <div className='col-12 col-sm-7 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='pool_info'>
-                                                    <h3>MetaLand</h3>
+                                                    <h3 className='h33'>MetaLand</h3>
                                                     <p className='para'> Metaland is a virtual world where players can build, own, and monetize their gaming.</p>
                                                    <button className='btn4'>Registration Opened</button>
                                                    
@@ -87,18 +87,18 @@ const Projects=()=>{
                             <br></br>
                             <br></br>
                             <div className='row' style={{marginTop:"-35px"}}>
-                                <div className='col-md-12 col-sm-12 col-lg-6'>
+                                <div className='col-12 col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
-                                            <div className='col-12 col-sm-5 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='polava'>
                                                     <img src="no.png" className='img_fluid'></img>
                                                 </div>
                                             </div>
-                                            <div className='col-12 col-sm-7 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='pool_info'>
-                                                    <h4 style={{fontSize:"33px"}}>KickMe NOS</h4>
+                                                    <h4 className='h33' style={{fontSize:"33px"}}>KickMe NOS</h4>
                                                     <p className='para'> Metaland is a virtual world where players can build, own, and monetize their gaming.</p>
                                                    <button className='btn4'>Registration Opened</button>
                                                    
@@ -121,18 +121,18 @@ const Projects=()=>{
                           
                                 </div>
 </div>
-<div className='col-md-12 col-sm-12 col-lg-6'>
+<div className='col-12 col-md-12 col-sm-12 col-lg-6'>
                                     <div data-aos="flip-up" data-aos-duration="900">
                                     <div className='mid_pool'>
                                         <div className='row'>
-                                            <div className='col-12 col-sm-5 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='polava'>
                                                     <img src="1.png" className='img_fluid'></img>
                                                 </div>
                                             </div>
-                                            <div className='col-12 col-sm-7 col-lg-6'>
+                                            <div className='col-6 col-sm-6 col-lg-6'>
                                                 <div className='pool_info'>
-                                                    <h4 style={{fontSize:"33px"}}>Avaivax Coin</h4>
+                                                    <h4 className='h33' style={{fontSize:"33px"}}>Avaivax Coin</h4>
                                                     <p className='para'> Metaland is a virtual world where players can build, own, and monetize their gaming.</p>
                                                    <button className='btn4'>Registration Opened</button>
                                                    
