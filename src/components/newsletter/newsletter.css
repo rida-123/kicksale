@@ -58,7 +58,7 @@ padding-bottom: 90px;
 
 .inputfieldss{
     background-color: #16182d;
-    width: 80%;
+    width: 100%;
     border: 0.5px solid white;
     padding: 7px 0px 10px 0px;
     border-radius: 50px;
@@ -109,8 +109,8 @@ font-size: 14px;
             padding-bottom: 90px;
           background-size: cover;
           border-radius:  40px;
-          margin-left: 10px;
-          margin-right: 10px;
+          margin-left: 1px;
+          margin-right: 1px;
         
           
             
