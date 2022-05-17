@@ -53,6 +53,10 @@ border-bottom: 1px solid white;
     background-image: linear-gradient(to right, #C83695, #6934C9);
     padding: 20px;
   }
+  #main #faq .card .card-header .btn-header-link:focus{
+    outline: 0 !important;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) !important;
+  }
   
   #main #faq .card .collapsing {
 
@@ -72,6 +76,10 @@ border-bottom: 1px solid white;
   .accordion{
       padding-left: 70px;
       padding-right: 70px;
+  }
+  .accordian:focus{
+  outline: 0 !important;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) !important;
   }
   @media only screen and (max-width: 950px){
     .accordion{

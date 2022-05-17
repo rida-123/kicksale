@@ -13,6 +13,7 @@ background-size: cover;
 padding-bottom: 90px;
 
 }
+
 .newss{
     text-align: left;
     color: white;
@@ -51,6 +52,37 @@ padding-bottom: 90px;
     color: white;
     border-radius: 50px;
 }
+.inputfieldss::placeholder{
+    color: white;
+}
+
+.inputfieldss{
+    background-color: #16182d;
+    width: 80%;
+    border: 0.5px solid white;
+    padding: 7px 0px 10px 0px;
+    border-radius: 50px;
+    color: white;
+    margin: 8px 0;
+    padding-left: 10px;
+  
+
+}
+.inputfieldss::placeholder{
+    padding-left: 20px;
+}
+.btn19{
+    background: #5133D5;
+box-shadow: none;
+    padding: 5px 10px 5px 11px;
+border-radius: 50px;
+font-weight: bold; 
+border: none; 
+
+
+margin-left: -105px;
+font-size: 14px;
+}
 .input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu){
     border-top-right-radius:50px;
     border-bottom-right-radius: 50px;
@@ -61,15 +93,7 @@ padding-bottom: 90px;
         height: 300px;
         margin-top: -90px;
     }
-    .newsletter{
-        background-image: url("../../../public/Metaverse.png");
-        
-     
-        background-repeat: no-repeat;
-        padding-bottom: 90px;
-      background-size: cover;
-        
-        }
+    
         .newsLetterHeading{
             text-transform: uppercase;
             font-size: 28px;
@@ -77,23 +101,49 @@ padding-bottom: 90px;
         .form-control{
             width: 80% !important;
         }
+        .newsletter{
+            background-image: url("../../../public/metav.png");
+          
+          border: 2px solid #C83695;
+            background-repeat: no-repeat;
+            padding-bottom: 90px;
+          background-size: cover;
+          border-radius:  40px;
+          margin-left: 10px;
+          margin-right: 10px;
+        
+          
+            
+            }
         
       
       
         
+}
+@media only screen and (max-width: 990px){
+    
 }
 @media only screen and (max-width: 500px){
     .newss{
          
         padding-left: 20px;
     }
-    .input-group .btn {
-        position: absolute;
-         background-color: #5133D5;
-         color: white;
-         border-radius: 50px;
-
-     }
-        
+ 
+    .inputfieldss{
+        width: 100%;
+    }
+  
     
+}
+@media only screen and (max-width: 900px){
+    .newsletter{
+        flex-flow: column-reverse;
+      
+    }
+    .photo{
+        width: 300px;
+        height: 300px;
+        margin-top: 10px;
+        margin-bottom: -90px;
+    }
 }
