@@ -2,6 +2,8 @@ import './roadmap.css'
 import RoadmapNav from '../roadmapNav/roadmapNav';
 import RoadmapDetail from '../roadmapDetail/roadmapDetail';
 import FooterRoadmap from '../footerRoadmap/footerRoadmap';
+import MobileRoadmapNav from '../mobileRoadmapNav/mobileRoadmapNav';
+import MobileRoadmapDetail from '../MobileRoadmapDetail/mobileRoadmapDetail';
 import { useState ,useEffect} from 'react';
 
 const Roadmap=()=>{
@@ -28,7 +30,12 @@ const Roadmap=()=>{
     else
     return(
         <>
-       <RoadmapNav></RoadmapNav>
+          <div className="roadmap">
+          <MobileRoadmapNav/>
+          <MobileRoadmapDetail></MobileRoadmapDetail>
+          <FooterRoadmap></FooterRoadmap>
+          </div>
+   
         </>
     )
   

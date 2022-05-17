@@ -1,0 +1,81 @@
+.mobileFirst{
+    border-top:2px solid #cb3694 ;
+    border-right:2px solid #cb3694 ;
+    border-bottom:2px solid #cb3694 ;
+    margin-top: 150px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; 
+    padding-bottom: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mobileSecond{
+    border-left:2px solid #cb3694 ;
+
+   border-bottom-left-radius: 30px;
+  
+  border-bottom:2px solid #cb3694 ;  
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-bottom: 120px;
+}
+.mobileThird{
+    padding-bottom: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-right:2px dashed #cb3694 ;
+    border-bottom:2px dashed #cb3694 ;
+    border-bottom-right-radius: 30px; 
+}
+.mobilefour{
+    padding-bottom: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-left:2px dashed #cb3694 ;
+    border-bottom:2px dashed #cb3694 ;
+    border-bottom-left-radius: 30px;
+
+
+}
+.mobilefive{
+    padding-bottom: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-right:2px dashed #cb3694 ;
+    border-bottom:2px dashed #cb3694 ;
+    border-bottom-right-radius: 30px; 
+}
+.mobileImg{
+    margin-top: -120px;
+}
+.mobileh6{
+    color: white;
+    margin-top: -50px;
+}
+.mobileEllipse{
+    margin-top: -12px;
+}
+.mobileLine{
+    margin-top: -7px;
+}
+.mobileBlock{
+    background-color: #120822;
+    border: 1px solid#5133d5;
+    border-radius: 20px;
+   margin: 0 auto;
+  width: 80%;
+  height: 80%;
+    padding: 5px;
+}
+.mobileh4{
+    color: #cb3694;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.mobilep{
+    color: white;
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+
