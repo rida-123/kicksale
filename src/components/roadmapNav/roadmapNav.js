@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-const ProjectsNav=()=>{
+const RoadmapNav=()=>{
     return(
         <nav className="navbar navbar-expand-lg navbar-light ">
         <div className="container-fluid">
@@ -89,4 +89,4 @@ const ProjectsNav=()=>{
       </nav>
     )
 }
-export default ProjectsNav;
+export default RoadmapNav;

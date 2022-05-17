@@ -1,0 +1,71 @@
+.first{
+    /* border-top:2px solid #cb3694 ;
+    border-right:2px solid #cb3694 ;
+    border-bottom:2px solid #cb3694 ;*/
+    margin-top: 150px;
+    /* border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px; */ 
+    padding-bottom: 100px;
+  background-image: url("../../../public/Vectorroad.png");
+  background-size: cover;
+  background-position-x: right;
+}
+.second{
+    /* border-left:2px dashed #cb3694 ;
+  /* border-top-left-radius: 20px; */
+  /* border-bottom-left-radius: 20px;
+  border-bottom-right-radius: -20px;
+  border-bottom:2px dashed #cb3694 ;  */
+  background-image: url("../../../public/v.png");
+  background-size: cover;
+  
+  padding-bottom: 100px;
+}
+.third{
+ 
+ 
+    padding-bottom: 100px;
+
+}
+.columns{
+    text-align: center;
+}
+.iamImg{
+    
+    margin-top: -7px;
+}
+.iamImg1{
+    margin-top: -5px;
+    height: 100px;
+}
+.road1{
+    margin-top: -153px;
+}
+.road2{
+    margin-top: -153px;
+}
+.q3{
+    color: white;
+    margin-top: -52px;
+}
+.blockchain{
+    background-color: #120822;
+    border: 1px solid#5133d5;
+    border-radius: 20px;
+    width: 60%;
+    margin-left: 108px;
+    padding: 5px;
+}
+.blockchainh4{
+    color: #cb3694;
+    font-size: 14px;
+    padding-top: 5px;
+}
+.blockchainpara{
+    color: white;
+    font-size: 12px;
+}
+@media only screen and (max-width:900px){
+
+  
+}
