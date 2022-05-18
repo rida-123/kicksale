@@ -3,7 +3,7 @@ const MobileRoadmapNav=()=>{
     return(
         <nav className="navbar navbar-expand-lg navbar-light ">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="/">
         <img src="kicksale-logo.png" className='img1'></img>
           </a>
           <button
