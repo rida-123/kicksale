@@ -39,8 +39,9 @@ th:first-of-type{
     table ,th ,td{
         border: 1px solid #5B435B;
      
-  padding: 15px;
+  padding: 5px;
       font-size: 10px;
+      width: 20%  !important;
       
    
     
